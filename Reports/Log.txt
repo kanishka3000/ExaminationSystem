@@ -1,0 +1,265 @@
+Thu, 16 Apr 2009 15:06:26 +0000--Add new Examination ee
+Thu, 16 Apr 2009 15:12:58 +0000--Genarate Excell  marks for Ex987
+Sun, 10 May 2009 05:21:02 +0000--Examination closed for Ex008
+Sun, 10 May 2009 13:22:58 +0000--Add new Examination Ex006
+Sun, 10 May 2009 13:37:07 +0000--Add new Examination Ex0077
+Sun, 10 May 2009 14:34:22 +0000--Genarate Excell  marks for Ex006
+Sun, 10 May 2009 15:27:04 +0000--Genarate Excell  marks for Ex006
+Mon, 11 May 2009 09:16:25 +0000--Add new Examination EX0001
+Mon, 11 May 2009 09:36:58 +0000--Genarate Excell  marks for EX0001
+Mon, 11 May 2009 09:39:39 +0000--Attempt to add marks for EX0001
+Mon, 11 May 2009 09:39:39 +0000--Genarate Excell  marks for EX0001
+Mon, 11 May 2009 09:39:39 +0000--
+Mon, 11 May 2009 09:39:39 +0000--Examination closed for EX0001
+Wed, 13 May 2009 02:06:43 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 02:08:12 +0000--Attempt to add marks for Ex0077
+Wed, 13 May 2009 02:08:12 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 02:10:45 +0000--Attempt to add marks for Ex0077
+Wed, 13 May 2009 02:10:45 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 02:12:35 +0000--Attempt to add marks for Ex0077
+Wed, 13 May 2009 02:12:35 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 02:14:01 +0000--Attempt to add marks for Ex0077
+Wed, 13 May 2009 02:14:01 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 02:14:01 +0000--
+Wed, 13 May 2009 02:14:01 +0000--Examination closed for Ex0077
+Wed, 13 May 2009 03:07:42 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 03:08:23 +0000--Attempt to add marks for Ex0077
+Wed, 13 May 2009 03:08:23 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 03:08:24 +0000--
+Wed, 13 May 2009 03:08:24 +0000--Examination closed for Ex0077
+Wed, 13 May 2009 03:09:20 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 03:13:01 +0000--Attempt to add marks for Ex0077
+Wed, 13 May 2009 03:13:01 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 03:13:01 +0000--
+Wed, 13 May 2009 03:13:01 +0000--Examination closed for updating Ex0077
+Wed, 13 May 2009 03:18:30 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 03:19:06 +0000--Attempt to add marks for Ex0077
+Wed, 13 May 2009 03:19:06 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 03:19:06 +0000--
+Wed, 13 May 2009 03:19:06 +0000--Examination closed for updating Ex0077
+Wed, 13 May 2009 03:21:29 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 03:22:09 +0000--Attempt to add marks for Ex0077
+Wed, 13 May 2009 03:22:09 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 03:22:26 +0000--Attempt to add marks for Ex0077
+Wed, 13 May 2009 03:22:26 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 03:23:37 +0000--Attempt to add marks for Ex0077
+Wed, 13 May 2009 03:23:37 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 03:23:44 +0000--Attempt to add marks for Ex006
+Wed, 13 May 2009 03:24:43 +0000--Attempt to add marks for Ex006
+Wed, 13 May 2009 03:25:30 +0000--Attempt to add marks for Ex006
+Wed, 13 May 2009 03:27:17 +0000--Attempt to add marks for Ex006
+Wed, 13 May 2009 03:30:51 +0000--Attempt to add marks for Ex006
+Wed, 13 May 2009 03:30:51 +0000--Genarate Excell  marks for Ex006
+Wed, 13 May 2009 03:30:51 +0000--
+Wed, 13 May 2009 03:30:51 +0000--Examination closed for Ex006
+Wed, 13 May 2009 03:33:58 +0000--Attempt to add marks for Ex0077
+Wed, 13 May 2009 03:33:58 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 03:35:21 +0000--Attempt to add marks for Ex0077
+Wed, 13 May 2009 03:35:21 +0000--Genarate Excell  marks for Ex0077
+Wed, 13 May 2009 03:55:40 +0000--Add new Examination ex009
+Wed, 13 May 2009 03:56:26 +0000--Genarate Excell  marks for ex009
+Wed, 13 May 2009 03:57:51 +0000--Attempt to add marks for ex009
+Wed, 13 May 2009 03:57:51 +0000--Genarate Excell  marks for ex009
+Wed, 13 May 2009 03:58:51 +0000--Attempt to add marks for ex009
+Wed, 13 May 2009 03:58:51 +0000--Genarate Excell  marks for ex009
+Wed, 13 May 2009 03:58:51 +0000--
+Wed, 13 May 2009 03:58:51 +0000--Examination closed for ex009
+Wed, 13 May 2009 04:06:41 +0000--Add new Examination ex0004
+Wed, 13 May 2009 04:08:12 +0000--Genarate Excell  marks for ex0004
+Wed, 13 May 2009 04:10:07 +0000--Attempt to add marks for ex0004
+Wed, 13 May 2009 04:10:07 +0000--Genarate Excell  marks for ex0004
+Wed, 13 May 2009 04:10:07 +0000--
+Wed, 13 May 2009 04:10:07 +0000--Examination closed for ex0004
+Wed, 13 May 2009 04:12:16 +0000--Genarate Excell  marks for ex0004
+Wed, 13 May 2009 04:13:49 +0000--Attempt to add marks for ex0004
+Wed, 13 May 2009 04:13:49 +0000--Genarate Excell  marks for ex0004
+Wed, 13 May 2009 04:13:49 +0000--
+Wed, 13 May 2009 04:13:49 +0000--Examination closed for updating ex0004
+Sun, 17 May 2009 04:37:28 +0000--Genarate Excell  marks for Ex0077
+Sun, 17 May 2009 07:49:20 +0000--This examination was reset aginst rules Ex005
+Sun, 17 May 2009 07:52:47 +0000--Examination closed for updating Ex005
+Sun, 17 May 2009 07:53:41 +0000--This examination was reset aginst rules Ex005
+Sun, 17 May 2009 08:49:27 +0000--Add new Examination Ex0011
+Sun, 17 May 2009 08:50:28 +0000--Genarate Excell  marks for Ex0011
+Mon, 18 May 2009 15:19:52 +0000--Add new Examination BLESEP2007
+Mon, 18 May 2009 15:21:26 +0000--Genarate Excell  marks for BLESEP2007
+Mon, 18 May 2009 15:25:03 +0000--Attempt to add marks for BLESEP2007
+Mon, 18 May 2009 15:25:03 +0000--Genarate Excell  marks for BLESEP2007
+Mon, 18 May 2009 15:25:04 +0000--
+Mon, 18 May 2009 15:25:04 +0000--Examination closed for BLESEP2007
+Mon, 18 May 2009 15:58:41 +0000--Add new Examination BLEJUN2007
+Mon, 18 May 2009 15:59:38 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 16:02:46 +0000--Attempt to add marks for BLEJUN2007
+Mon, 18 May 2009 16:02:46 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 16:02:46 +0000--
+Mon, 18 May 2009 16:02:46 +0000--Examination closed for BLEJUN2007
+Mon, 18 May 2009 16:31:35 +0000--Genarate Excell  marks for BLESEP2007
+Mon, 18 May 2009 16:32:48 +0000--Attempt to add marks for BLESEP2007
+Mon, 18 May 2009 16:32:48 +0000--Genarate Excell  marks for BLESEP2007
+Mon, 18 May 2009 16:32:48 +0000--
+Mon, 18 May 2009 16:32:48 +0000--Fatal error
+Mon, 18 May 2009 16:32:48 +0000--Examination closed for updating BLESEP2007
+Mon, 18 May 2009 16:35:57 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 16:37:57 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 16:39:09 +0000--Attempt to add marks for BLEJUN2007
+Mon, 18 May 2009 16:39:09 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 16:39:09 +0000--
+Mon, 18 May 2009 16:39:09 +0000--Fatal error
+Mon, 18 May 2009 16:39:09 +0000--Fatal error
+Mon, 18 May 2009 16:39:09 +0000--Fatal error
+Mon, 18 May 2009 16:39:09 +0000--Fatal error
+Mon, 18 May 2009 16:39:09 +0000--Examination closed for updating BLEJUN2007
+Mon, 18 May 2009 16:41:12 +0000--This examination was reset aginst rules BLESEP2007
+Mon, 18 May 2009 16:41:30 +0000--Genarate Excell  marks for BLESEP2007
+Mon, 18 May 2009 16:42:23 +0000--Attempt to add marks for BLESEP2007
+Mon, 18 May 2009 16:42:23 +0000--Genarate Excell  marks for BLESEP2007
+Mon, 18 May 2009 16:42:23 +0000--
+Mon, 18 May 2009 16:42:23 +0000--Fatal error
+Mon, 18 May 2009 16:42:23 +0000--Fatal error
+Mon, 18 May 2009 16:42:23 +0000--Fatal error
+Mon, 18 May 2009 16:42:23 +0000--Fatal error
+Mon, 18 May 2009 16:42:23 +0000--Examination closed for updating BLESEP2007
+Mon, 18 May 2009 16:43:46 +0000--This examination was reset aginst rules BLEJUN2007
+Mon, 18 May 2009 16:44:05 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 16:44:45 +0000--Attempt to add marks for BLEJUN2007
+Mon, 18 May 2009 16:44:45 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 16:44:45 +0000--
+Mon, 18 May 2009 16:44:45 +0000--Fatal error
+Mon, 18 May 2009 16:44:45 +0000--Fatal error
+Mon, 18 May 2009 16:44:45 +0000--Fatal error
+Mon, 18 May 2009 16:44:45 +0000--Fatal error
+Mon, 18 May 2009 16:44:45 +0000--Examination closed for updating BLEJUN2007
+Mon, 18 May 2009 16:45:04 +0000--This examination was reset aginst rules BLEJUN2007
+Mon, 18 May 2009 16:48:06 +0000--Genarate Excell  marks for Ex0077
+Mon, 18 May 2009 16:48:17 +0000--Genarate Excell  marks for Ex005
+Mon, 18 May 2009 16:48:41 +0000--This examination was reset aginst rules ex0004
+Mon, 18 May 2009 16:48:57 +0000--Genarate Excell  marks for ex0004
+Mon, 18 May 2009 16:49:34 +0000--Genarate Excell  marks for ex009
+Mon, 18 May 2009 17:04:13 +0000--Add new Examination ex456
+Mon, 18 May 2009 17:04:35 +0000--Genarate Excell  marks for ex456
+Mon, 18 May 2009 17:05:27 +0000--Attempt to add marks for ex456
+Mon, 18 May 2009 17:05:27 +0000--Genarate Excell  marks for ex456
+Mon, 18 May 2009 17:06:12 +0000--Attempt to add marks for ex456
+Mon, 18 May 2009 17:06:12 +0000--Genarate Excell  marks for ex456
+Mon, 18 May 2009 17:06:12 +0000--
+Mon, 18 May 2009 17:06:12 +0000--Examination closed for ex456
+Mon, 18 May 2009 17:07:00 +0000--Genarate Excell  marks for ex456
+Mon, 18 May 2009 17:07:32 +0000--Attempt to add marks for ex456
+Mon, 18 May 2009 17:07:32 +0000--Genarate Excell  marks for ex456
+Mon, 18 May 2009 17:07:32 +0000--
+Mon, 18 May 2009 17:07:32 +0000--Examination closed for updating ex456
+Mon, 18 May 2009 17:10:38 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 17:11:45 +0000--Attempt to add marks for BLEJUN2007
+Mon, 18 May 2009 17:11:45 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 17:11:45 +0000--
+Mon, 18 May 2009 17:11:45 +0000--Examination closed for updating BLEJUN2007
+Mon, 18 May 2009 17:17:00 +0000--This examination was reset aginst rules BLESEP2007
+Mon, 18 May 2009 17:17:13 +0000--This examination was reset aginst rules BLEJUN2007
+Mon, 18 May 2009 17:17:24 +0000--Genarate Excell  marks for BLESEP2007
+Mon, 18 May 2009 17:18:11 +0000--Attempt to add marks for BLESEP2007
+Mon, 18 May 2009 17:18:11 +0000--Genarate Excell  marks for BLESEP2007
+Mon, 18 May 2009 17:18:12 +0000--
+Mon, 18 May 2009 17:18:12 +0000--Fatal error
+Mon, 18 May 2009 17:18:12 +0000--Fatal error
+Mon, 18 May 2009 17:18:12 +0000--Fatal error
+Mon, 18 May 2009 17:18:12 +0000--Fatal error
+Mon, 18 May 2009 17:18:12 +0000--Examination closed for updating BLESEP2007
+Mon, 18 May 2009 17:20:02 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 17:20:54 +0000--Attempt to add marks for BLEJUN2007
+Mon, 18 May 2009 17:20:54 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 17:20:54 +0000--
+Mon, 18 May 2009 17:20:55 +0000--Examination closed for updating BLEJUN2007
+Mon, 18 May 2009 17:29:17 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 17:30:01 +0000--Attempt to add marks for BLEJUN2007
+Mon, 18 May 2009 17:30:01 +0000--Genarate Excell  marks for BLEJUN2007
+Mon, 18 May 2009 17:30:01 +0000--
+Mon, 18 May 2009 17:30:01 +0000--Examination closed for updating BLEJUN2007
+Mon, 18 May 2009 17:31:53 +0000--Add new Examination BLEJAN2009
+Mon, 18 May 2009 17:32:56 +0000--Genarate Excell  marks for BLEJAN2009
+Mon, 18 May 2009 17:34:26 +0000--Attempt to add marks for BLEJAN2009
+Mon, 18 May 2009 17:34:26 +0000--Genarate Excell  marks for BLEJAN2009
+Mon, 18 May 2009 17:35:12 +0000--Attempt to add marks for BLEJAN2009
+Mon, 18 May 2009 17:35:12 +0000--Genarate Excell  marks for BLEJAN2009
+Mon, 18 May 2009 17:35:12 +0000--
+Mon, 18 May 2009 17:35:13 +0000--Examination closed for BLEJAN2009
+Mon, 18 May 2009 17:42:43 +0000--Add new Examination BLESEP2010
+Tue, 19 May 2009 04:23:54 +0000--Add new Examination BLEMAY2010
+Tue, 19 May 2009 04:25:55 +0000--Genarate Excell  marks for BLEMAY2010
+Tue, 19 May 2009 04:29:48 +0000--Attempt to add marks for BLEMAY2010
+Tue, 19 May 2009 04:29:48 +0000--Genarate Excell  marks for BLEMAY2010
+Tue, 19 May 2009 04:31:52 +0000--Attempt to add marks for BLEMAY2010
+Tue, 19 May 2009 04:31:52 +0000--Genarate Excell  marks for BLEMAY2010
+Tue, 19 May 2009 04:31:52 +0000--
+Tue, 19 May 2009 04:31:52 +0000--Examination closed for BLEMAY2010
+Tue, 19 May 2009 04:40:05 +0000--Genarate Excell  marks for BLEMAY2010
+Tue, 19 May 2009 04:41:25 +0000--Attempt to add marks for BLEMAY2010
+Tue, 19 May 2009 04:41:25 +0000--Genarate Excell  marks for BLEMAY2010
+Tue, 19 May 2009 04:41:25 +0000--
+Tue, 19 May 2009 04:41:25 +0000--Examination closed for updating BLEMAY2010
+Tue, 19 May 2009 04:53:35 +0000--Add new Examination BLEKK2009
+Tue, 19 May 2009 06:36:32 +0000--Add new Examination BLESS89
+Tue, 19 May 2009 06:39:01 +0000--Genarate Excell  marks for BLESS89
+Tue, 19 May 2009 06:42:00 +0000--Attempt to add marks for BLESS89
+Tue, 19 May 2009 06:42:00 +0000--Genarate Excell  marks for BLESS89
+Tue, 19 May 2009 06:42:00 +0000--
+Tue, 19 May 2009 06:42:01 +0000--Examination closed for BLESS89
+Tue, 19 May 2009 06:53:47 +0000--Add new Examination BLEzzz
+Tue, 19 May 2009 06:54:23 +0000--Genarate Excell  marks for BLEzzz
+Tue, 19 May 2009 06:57:11 +0000--Attempt to add marks for BLEzzz
+Tue, 19 May 2009 06:57:11 +0000--Genarate Excell  marks for BLEzzz
+Wed, 20 May 2009 08:42:41 +0000--Add new Examination BLESEP2008
+Wed, 20 May 2009 08:43:44 +0000--Genarate Excell  marks for BLESEP2008
+Wed, 20 May 2009 08:55:04 +0000--Attempt to add marks for BLESEP2008
+Wed, 20 May 2009 08:55:04 +0000--Genarate Excell  marks for BLESEP2008
+Wed, 20 May 2009 08:55:04 +0000--
+Wed, 20 May 2009 08:55:04 +0000--Examination closed for BLESEP2008
+Wed, 20 May 2009 08:55:24 +0000--Genarate Excell  marks for BLESEP2008
+Wed, 20 May 2009 08:58:33 +0000--Attempt to add marks for BLESEP2008
+Wed, 20 May 2009 08:58:33 +0000--Genarate Excell  marks for BLESEP2008
+Wed, 20 May 2009 08:58:33 +0000--
+Wed, 20 May 2009 08:58:33 +0000--Fatal error
+Wed, 20 May 2009 08:58:33 +0000--Fatal error
+Wed, 20 May 2009 08:58:33 +0000--Fatal error
+Wed, 20 May 2009 08:58:33 +0000--Examination closed for updating BLESEP2008
+Wed, 20 May 2009 09:09:52 +0000--Add new Examination BLEJAN2000
+Wed, 20 May 2009 09:11:00 +0000--Genarate Excell  marks for BLEJAN2000
+Wed, 20 May 2009 09:12:33 +0000--Attempt to add marks for BLEJAN2000
+Wed, 20 May 2009 09:12:33 +0000--Genarate Excell  marks for BLEJAN2000
+Wed, 20 May 2009 09:12:33 +0000--
+Wed, 20 May 2009 09:12:33 +0000--Examination closed for BLEJAN2000
+Wed, 20 May 2009 09:12:56 +0000--Genarate Excell  marks for BLEJAN2000
+Wed, 20 May 2009 09:13:45 +0000--Attempt to add marks for BLEJAN2000
+Wed, 20 May 2009 09:13:45 +0000--Genarate Excell  marks for BLEJAN2000
+Wed, 20 May 2009 09:13:45 +0000--
+Wed, 20 May 2009 09:13:45 +0000--Fatal error at 612
+Wed, 20 May 2009 09:13:45 +0000--Fatal error at 613
+Wed, 20 May 2009 09:13:45 +0000--Fatal error at 614
+Wed, 20 May 2009 09:13:45 +0000--Fatal error at 615
+Wed, 20 May 2009 09:13:45 +0000--Examination closed for updating BLEJAN2000
+Wed, 20 May 2009 09:22:32 +0000--Add new Examination BLEDEC2001
+Wed, 20 May 2009 09:22:37 +0000--Genarate Excell  marks for BLEDEC2001
+Wed, 20 May 2009 09:23:41 +0000--Genarate Excell  marks for BLEDEC2001
+Wed, 20 May 2009 09:27:38 +0000--Attempt to add marks for BLEDEC2001
+Wed, 20 May 2009 09:27:38 +0000--Genarate Excell  marks for BLEDEC2001
+Wed, 20 May 2009 09:27:39 +0000--
+Wed, 20 May 2009 09:27:39 +0000--Examination closed for BLEDEC2001
+Wed, 20 May 2009 09:28:07 +0000--Genarate Excell  marks for BLEDEC2001
+Wed, 20 May 2009 09:28:46 +0000--Attempt to add marks for BLEDEC2001
+Wed, 20 May 2009 09:28:46 +0000--Genarate Excell  marks for BLEDEC2001
+Wed, 20 May 2009 09:28:46 +0000--
+Wed, 20 May 2009 09:28:46 +0000--Examination closed for updating BLEDEC2001
+Wed, 20 May 2009 09:44:56 +0000--Add new Examination BLESEP2010
+Wed, 20 May 2009 09:46:21 +0000--Genarate Excell  marks for BLESEP2010
+Wed, 20 May 2009 09:47:55 +0000--Attempt to add marks for BLESEP2010
+Wed, 20 May 2009 09:47:55 +0000--Genarate Excell  marks for BLESEP2010
+Wed, 20 May 2009 09:47:55 +0000--
+Wed, 20 May 2009 09:47:55 +0000--Examination closed for BLESEP2010
+Wed, 20 May 2009 09:49:14 +0000--Genarate Excell  marks for BLESEP2010
+Wed, 20 May 2009 09:49:53 +0000--Attempt to add marks for BLESEP2010
+Wed, 20 May 2009 09:49:53 +0000--Genarate Excell  marks for BLESEP2010
+Wed, 20 May 2009 09:49:53 +0000--
+Wed, 20 May 2009 09:49:53 +0000--Examination closed for updating BLESEP2010
+Mon, 25 May 2009 14:05:41 +0000--Add new Examination BLEAUG2008
+Mon, 25 May 2009 14:06:21 +0000--Genarate Excell  marks for BLEAUG2008
+Fri, 29 May 2009 15:40:48 +0000--Genarate Excell  marks for BLEAUG2008
+Sat, 30 May 2009 01:54:04 +0000--Add new Examination BLESEPT3Year

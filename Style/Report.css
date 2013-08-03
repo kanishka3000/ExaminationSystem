@@ -1,0 +1,38 @@
+/* 
+    Document   : Report
+    Created on : Dec 14, 2008, 6:59:03 PM
+    Author     : Kanishka
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+
+}
+#body{
+  
+   
+    border-style:groove;
+    text-align:left;
+    font-family:sans-serif;
+    font-size:16pt;
+   visibility:hidden
+    
+  
+}
+#top{
+    height:3cm;
+    width:100%;
+    background-image: url(../images/topbannebwr.gif);
+    background-repeat:no-repeat;
+   background-position:center;
+  
+    
+}
+

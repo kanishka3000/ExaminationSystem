@@ -1,0 +1,183 @@
+CREATE TABLE searchDouble(
+wordId int auto_increment PRIMARY KEY,
+keyword varchar(50),
+question varchar(200),
+url varchar(100)
+
+);
+
+INSERT INTO searchDouble VALUES(
+1,"addcourse", "How add a new course","help_course.php"
+);
+
+INSERT INTO searchDouble VALUES(
+2,"addcourse", "How add a new active course","help_active.php"
+);
+
+INSERT INTO searchDouble VALUES(
+3,"activecourse", "How add a new active course","help_active.php"
+);
+
+INSERT INTO searchDouble VALUES(
+4,"activecourse", "How close a active course","help_close.php"
+);
+
+INSERT INTO searchDouble VALUES(
+5,"addactive", "How add a new active course","help_active.php"
+);
+
+INSERT INTO searchDouble VALUES(
+6,"closecourse", "How close a active course","help_close.php"
+);
+
+INSERT INTO searchDouble VALUES(
+7,"closeactive", "How close a active course","help_close.php"
+);
+
+INSERT INTO searchDouble VALUES(
+8,"closeexam", "How close exam","help_close_exam.php"
+);
+
+INSERT INTO searchDouble VALUES(
+9,"addexam", "How to add a new exam","help_exam.php"
+);
+
+INSERT INTO searchDouble VALUES(
+10,"addmarks", "How to add marks","help_marks.php"
+);
+
+INSERT INTO searchDouble VALUES(
+11,"updatemarks", "How to update marks","help_update.php"
+);
+
+INSERT INTO searchDouble VALUES(
+12,"examinationreport", "Examination officer reports","exam_offi_reports.php"
+);
+
+INSERT INTO searchDouble VALUES(
+13,"officerreport", "Examination officer reports","exam_offi_reports.php"
+);
+
+INSERT INTO searchDouble VALUES(
+14,"adminreport", "Administrator reports","admin_reports.php"
+);
+
+INSERT INTO searchDouble VALUES(
+15,"administratorreport", "Administrator reports","admin_reports.php"
+);
+
+INSERT INTO searchDouble VALUES(
+16,"studentreport", "Student course report","student_report.php"
+);
+
+INSERT INTO searchDouble VALUES(
+17,"coursereport", "Student course report","student_report.php"
+);
+
+INSERT INTO searchDouble VALUES(
+18,"activereport", "Active course report","active_course_report.php"
+);
+
+INSERT INTO searchDouble VALUES(
+19,"coursereport", "Active course report","active_course_report.php"
+);
+
+INSERT INTO searchDouble VALUES(
+20,"coursereport", "Course report","course_report.php"
+);
+
+INSERT INTO searchDouble VALUES(
+21,"registerstudent", "How to register a student for exam","help_reg.php"
+);
+
+INSERT INTO searchDouble VALUES(
+22,"registerexam", "How to register a student for exam","help_reg.php"
+);
+
+INSERT INTO searchDouble VALUES(
+23,"registerstudent", "How to register a student for course","help_reg_course.php"
+);
+
+INSERT INTO searchDouble VALUES(
+24,"registercourse", "How to register a student for course","help_reg_course.php"
+);
+
+
+INSERT INTO searchDouble VALUES(
+25,"registerstudent", "How to register a student","help_reg_std.php"
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

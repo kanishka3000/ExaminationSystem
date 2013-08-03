@@ -1,0 +1,34 @@
+index - main file
+default - searching file
+
+help_login - login
+help_pass - change password
+help_course - add new course
+help_active - add new active course
+help_close - close active course
+
+
+help_close_exam - close exam
+help_exam - add new exam
+
+
+help_marks - add marks
+help_update - update marks
+
+
+exam_offi_reports - Examination officer reports
+admin_reports - admin reports(summary)
+student_report - student course report
+active_course_report - active course report
+course_report - course report
+
+
+help_reg - register student for exam
+help_reg_course - register student for course
+help_reg_std - register student
+
+
+help_user - add/remove user
+
+
+

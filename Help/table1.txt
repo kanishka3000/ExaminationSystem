@@ -1,0 +1,149 @@
+CREATE TABLE search(
+wordId int auto_increment PRIMARY KEY,
+keyword varchar(50),
+question varchar(200),
+url varchar(100)
+
+);
+
+INSERT INTO search VALUES(
+1,"login", "How to login to the system","help_login.php"
+);
+
+INSERT INTO search VALUES(
+2,"password", "How change password","help_pass.php"
+);
+
+INSERT INTO search VALUES(
+3,"course", "How add a new course","help_course.php"
+);
+
+INSERT INTO search VALUES(
+4,"course", "How add a new active course","help_active.php"
+);
+
+INSERT INTO search VALUES(
+5,"course", "How close a active course","help_close.php"
+);
+
+INSERT INTO search VALUES(
+6,"close", "How close a active course","help_close.php"
+);
+
+INSERT INTO search VALUES(
+6,"close", "How close exam","help_close_exam.php"
+);
+
+INSERT INTO search VALUES(
+7,"exam", "How add a new exam","help_exam.php"
+);
+
+
+INSERT INTO search VALUES(
+8,"exam", "How close exam","help_close_exam.php"
+);
+
+INSERT INTO search VALUES(
+9,"marks", "How to add marks","help_marks.php"
+);
+
+INSERT INTO search VALUES(
+10,"marks", "How to update marks","help_update.php"
+);
+
+INSERT INTO search VALUES(
+11,"update", "How to update marks","help_update.php"
+);
+
+INSERT INTO search VALUES(
+12,"report", "Examination officer reports","exam_offi_reports.php"
+);
+
+INSERT INTO search VALUES(
+13,"report", "Administrator reports","admin_reports.php"
+);
+
+
+INSERT INTO search VALUES(
+14,"report", "Student course report","student_report.php"
+);
+
+INSERT INTO search VALUES(
+15,"report", "Active course report","active_course_report.php"
+);
+
+INSERT INTO search VALUES(
+16,"report", "Course report","course_report.php"
+);
+
+INSERT INTO search VALUES(
+17,"register", "How to register a student for exam","help_reg.php"
+);
+
+INSERT INTO search VALUES(
+18,"student", "How to register a student for exam","help_reg.php"
+);
+
+INSERT INTO search VALUES(
+19,"register", "How to register a student for course","help_reg_course.php"
+);
+
+INSERT INTO search VALUES(
+20,"student", "How to register a student for course","help_reg_course.php"
+);
+
+INSERT INTO search VALUES(
+21,"register", "How to register a student","help_reg_std.php"
+);
+
+INSERT INTO search VALUES(
+22,"student", "How to register a student","help_reg_std.php"
+);
+
+INSERT INTO search VALUES(
+23,"active", "How add a new active course","help_active.php"
+);
+
+INSERT INTO search VALUES(
+24,"active", "How close a active course","help_close.php"
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

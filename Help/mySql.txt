@@ -1,0 +1,60 @@
+CREATE TABLE search(
+wordId int auto_increment PRIMARY KEY,
+keyword varchar(50),
+question varchar(200),
+url varchar(100)
+
+);
+
+INSERT INTO search VALUES(
+1,"login", "How to login to the system","help_login.php"
+);
+
+INSERT INTO search VALUES(
+2,"password", "How change password","help_pass.php"
+);
+
+INSERT INTO search VALUES(
+3,"news", "How to add a news","help_news.php"
+);
+
+INSERT INTO search VALUES(
+4,"user", "How to add a user","help_user.php"
+);
+
+INSERT INTO search VALUES(
+5,"report", "How to create reports","help_report.php"
+);
+
+INSERT INTO search VALUES(
+6,"exam", "How to add a exam","help_exam.php"
+);
+
+INSERT INTO search VALUES(
+7,"update", "How to update student information","help_stud.php"
+);
+
+INSERT INTO search VALUES(
+8,"notification", "How to put notification","help_noti.php"
+);
+
+
+INSERT INTO search VALUES(
+9,"notice", "How to put notification","help_noti.php"
+);
+
+INSERT INTO search VALUES(
+10,"registration", "How to register a student","help_reg.php"
+);
+
+INSERT INTO search VALUES(
+11,"register", "How to register a student","help_reg.php"
+);
+
+INSERT INTO search VALUES(
+12,"register", "How to register for course","help_course.php"
+);
+
+INSERT INTO search VALUES(
+13,"course", "How to register for course","help_course.php"
+);

@@ -1,0 +1,104 @@
+CREATE TABLE search(
+wordId int auto_increment PRIMARY KEY,
+keyword varchar(50),
+question varchar(200),
+url varchar(100)
+
+);
+
+INSERT INTO search VALUES(
+1,"login", "How to login to the system","help_login.php"
+);
+
+INSERT INTO search VALUES(
+2,"password", "How change password","help_pass.php"
+);
+
+INSERT INTO search VALUES(
+3,"course", "How to add a new course","help_course.php"
+);
+
+INSERT INTO search VALUES(
+4,"activecourse", "How to add a new active course","help_active.php"
+);
+
+INSERT INTO search VALUES(
+5,"user", "How to add a new user","help_user.php"
+);
+
+INSERT INTO search VALUES(
+6,"close", "How to close active course","help_close.php"
+);
+
+INSERT INTO search VALUES(
+7,"marks", "How to add marks","help_marks.php"
+);
+
+INSERT INTO search VALUES(
+8,"exam", "How to add new exam","help_exam.php"
+);
+
+INSERT INTO search VALUES(
+9,"register", "How to register a student for exam","help_reg.php"
+);
+
+INSERT INTO search VALUES(
+10,"student", "How to register a student for exam","help_reg.php"
+);
+
+INSERT INTO search VALUES(
+11,"close", "How to close exam","help_close_exam.php"
+);
+
+INSERT INTO search VALUES(
+12,"update", "How to update marks","help_update.php"
+);
+
+INSERT INTO search VALUES(
+13,"report", "How to get report","help_report.php"
+);
+
+INSERT INTO search VALUES(
+14,"register", "How to register student","help_reg_std.php"
+);
+
+INSERT INTO search VALUES(
+15,"student", "How to register student","help_reg_std.php"
+);
+
+INSERT INTO search VALUES(
+16,"register", "How to register student for course","help_reg_course.php"
+);
+
+INSERT INTO search VALUES(
+17,"student", "How to register student for course","help_reg_course.php"
+);
+
+INSERT INTO search VALUES(
+18,"addcourse", "How to add a new course","help_course.php"
+);
+
+INSERT INTO search VALUES(
+19,"addactive", "How to add a new active course","help_active.php"
+);
+
+INSERT INTO search VALUES(
+20,"closective", "How to close active course","help_close.php"
+);
+
+INSERT INTO search VALUES(
+21,"closeexam", "How to close exam","help_close_exam.php"
+);
+
+INSERT INTO search VALUES(
+22,"registerexam", "How to register a student for exam","help_reg.php"
+);
+
+INSERT INTO search VALUES(
+23,"registercourse", "How to register student for course","help_reg_course.php"
+);
+
+
+
+
+

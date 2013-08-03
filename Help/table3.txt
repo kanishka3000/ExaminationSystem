@@ -1,0 +1,52 @@
+CREATE TABLE searchTriple(
+wordId int auto_increment PRIMARY KEY,
+keyword varchar(50),
+question varchar(200),
+url varchar(100)
+
+);
+
+INSERT INTO searchTriple VALUES(
+1,"addactivecourse", "How add a new active course","help_active.php"
+);
+
+INSERT INTO searchTriple VALUES(
+2,"closeactivecourse", "How close a active course","help_close.php"
+);
+
+INSERT INTO searchTriple VALUES(
+3,"examinationofficerreport", "Examination officer reports","exam_offi_reports.php"
+);
+
+INSERT INTO searchTriple VALUES(
+4,"studentcoursereport", "Student course report","student_report.php"
+);
+
+INSERT INTO searchTriple VALUES(
+5,"activecoursereport", "Active course report","active_course_report.php"
+);
+
+
+INSERT INTO searchTriple VALUES(
+6,"registerstudentexam", "How to register a student for exam","help_reg.php"
+);
+
+INSERT INTO searchTriple VALUES(
+7,"registerstudentcourse", "How to register a student for course","help_reg_course.php"
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
